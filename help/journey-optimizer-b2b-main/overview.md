@@ -1,17 +1,17 @@
 ---
-title: "[!DNL Journey Optimizer B2B Edition] Tutorials"
+title: '[!DNL Journey Optimizer B2B Edition] チュートリアル'
 description: ' [!DNL Journey Optimizer B2B Edition] のビデオチュートリアルをご覧ください。 アカウントの調整方法やグループジャーニーの購入方法などに関する理解を深めましょう。'
-source-git-commit: 2e58cb29f758a9255f744c98672320c6b3737612
+exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
+source-git-commit: 51ab8e8e3ec650516128e76c287cfce6b6ab11b5
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 2%
+source-wordcount: '180'
+ht-degree: 17%
 
 ---
 
-
 # [!DNL Journey Optimizer B2B Edition] チュートリアル
 
-[!DNL Journey Optimizer B2B Edition] を最大限に活用する方法を説明します。 組み込みのジェネレーティブ AI と業界をリードする自動化を使用して、アカウントと購入グループジャーニーを調整し、特定の製品に対する需要を最大化します。
+[!DNL Journey Optimizer B2B Edition] を最大限に活用する方法について説明します。組み込みの生成 AI と業界最先端の自動化機能を使用して、アカウントと購買グループのジャーニーを調整し、特定のサービスに対する需要を最大限に高めます。
 
 >[!NOTE]
 >
@@ -19,14 +19,20 @@ ht-degree: 2%
 
 ## 最新情報 {#whats-new}
 
-* [ 購入グループの概要 ](/help/buying-groups/buying-groups-overview.md)
-  _購入グループとその使用方法について説明します。_
+* [ アカウントジャーニーの概要 ](/help/account-journeys/introducing-account-journeys.md)
+  _アカウントジャーニーと、それらを使用してターゲットオーディエンスを引き付ける方法に関する概要を説明します。_
 
-* [ 購入グループの作成 ](/help/buying-groups/create-a-buying-group.md)
-  _アカウントオーディエンス、役割テンプレート、ソリューションへの関心を使用して購入グループを作成する方法を説明します。_
+* [ アカウントジャーニーの作成 ](/help/account-journeys/create-an-account-journey.md)
+  _アカウントオーディエンス、アクションノード、リッスンノード、分割パスノードを使用して、アカウントジャーニーを作成する方法を説明します。_
 
-* [ ソリューションの関心 ](/help/buying-groups/solution-interest.md)
-  _購入グループソリューションの関心と、購入グループを作成する際にそれらを設定/使用する方法について説明します。_
+* [ アクションノード ](/help/account-journeys/action-node.md)
+  _アクションノードと、アカウントジャーニーの作成時に設定する方法について説明します。_
+
+* [ リッスンノード ](/help/account-journeys/listen-node.md)
+  _リッスンノードと、アカウントジャーニーの作成時にリッスンノードを設定する方法について説明します。_
+
+* [ 分割勘定ジャーニー](/help/account-journeys/split-account-journey.md)
+  _分割/結合パスノードと、アカウントジャーニーの作成時に設定する方法について説明します。_
 
 ## 最も人気のあるビデオ {#most-popular-videos}
 
