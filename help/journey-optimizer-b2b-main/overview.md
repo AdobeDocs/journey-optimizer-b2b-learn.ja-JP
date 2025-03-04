@@ -2,10 +2,10 @@
 title: '[!DNL Journey Optimizer B2B Edition] チュートリアル'
 description: ' [!DNL Journey Optimizer B2B Edition] のビデオチュートリアルをご覧ください。 アカウントの調整方法やグループジャーニーの購入方法などに関する理解を深めましょう。'
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 688c658299a0e1e7a74e1a714d2732ffed3a7c45
+source-git-commit: ba3b04d8bedc8df0ddaacb902a65d0144bfab2d4
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 17%
+source-wordcount: '153'
+ht-degree: 20%
 
 ---
 
@@ -15,20 +15,14 @@ ht-degree: 17%
 
 ## 最新情報 {#whats-new}
 
-* [ アカウントジャーニーの概要 ](/help/account-journeys/introducing-account-journeys.md)
-  _アカウントジャーニーと、それらを使用してターゲットオーディエンスを引き付ける方法に関する概要を説明します。_
+* [ 購入グループステージ ](/help/buying-groups/buying-group-stages.md)
+  _1 つのステージモデル内で複数の購入グループライフサイクルステージを作成し、移行ルールを指定する方法を説明します。_
 
-* [ アカウントジャーニーの作成 ](/help/account-journeys/create-an-account-journey.md)
-  _アカウントオーディエンス、アクションノード、リッスンノード、分割パスノードを使用して、アカウントジャーニーを作成する方法を説明します。_
+* [AEP イベントをリッスン ](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+  _アカウントジャーニーで任意のエクスペリエンスイベントを定義して使用します。_
 
-* [ アクションノード ](/help/account-journeys/journey-nodes/action-node.md)
-  _アクションノードと、アカウントジャーニーの作成時に設定する方法について説明します。_
-
-* [ リッスンノード ](/help/account-journeys/journey-nodes/listen-node.md)
-  _リッスンノードと、アカウントジャーニーの作成時にリッスンノードを設定する方法について説明します。_
-
-* [ 分割勘定ジャーニー](/help/account-journeys/journey-nodes/split-account-journey.md)
-  _分割/結合パスノードと、アカウントジャーニーの作成時に設定する方法について説明します。_
+* [ 有料メディアオーケストレーション ](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+  _ジャーニーを使用してユーザーを外部オーディエンスに移動させ、AEPの宛先カタログでサポートされている有料メディアの宛先にプッシュする方法を説明します。_
 
 ## 最も人気のあるビデオ {#most-popular-videos}
 
