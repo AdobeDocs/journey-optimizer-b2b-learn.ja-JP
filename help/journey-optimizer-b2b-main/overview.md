@@ -2,9 +2,9 @@
 title: '[!DNL Journey Optimizer B2B Edition] チュートリアル'
 description: ' [!DNL Journey Optimizer B2B Edition] のビデオチュートリアルをご覧ください。 アカウントの調整方法やグループジャーニーの購入方法などに関する理解を深めましょう。'
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 51ab8e8e3ec650516128e76c287cfce6b6ab11b5
+source-git-commit: 688c658299a0e1e7a74e1a714d2732ffed3a7c45
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '176'
 ht-degree: 17%
 
 ---
@@ -12,10 +12,6 @@ ht-degree: 17%
 # [!DNL Journey Optimizer B2B Edition] チュートリアル
 
 [!DNL Journey Optimizer B2B Edition] を最大限に活用する方法について説明します。組み込みの生成 AI と業界最先端の自動化機能を使用して、アカウントと購買グループのジャーニーを調整し、特定のサービスに対する需要を最大限に高めます。
-
->[!NOTE]
->
->その他のビデオも近日公開予定です。
 
 ## 最新情報 {#whats-new}
 
@@ -25,13 +21,13 @@ ht-degree: 17%
 * [ アカウントジャーニーの作成 ](/help/account-journeys/create-an-account-journey.md)
   _アカウントオーディエンス、アクションノード、リッスンノード、分割パスノードを使用して、アカウントジャーニーを作成する方法を説明します。_
 
-* [ アクションノード ](/help/account-journeys/action-node.md)
+* [ アクションノード ](/help/account-journeys/journey-nodes/action-node.md)
   _アクションノードと、アカウントジャーニーの作成時に設定する方法について説明します。_
 
-* [ リッスンノード ](/help/account-journeys/listen-node.md)
+* [ リッスンノード ](/help/account-journeys/journey-nodes/listen-node.md)
   _リッスンノードと、アカウントジャーニーの作成時にリッスンノードを設定する方法について説明します。_
 
-* [ 分割勘定ジャーニー](/help/account-journeys/split-account-journey.md)
+* [ 分割勘定ジャーニー](/help/account-journeys/journey-nodes/split-account-journey.md)
   _分割/結合パスノードと、アカウントジャーニーの作成時に設定する方法について説明します。_
 
 ## 最も人気のあるビデオ {#most-popular-videos}
