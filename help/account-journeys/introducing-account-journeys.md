@@ -20,4 +20,4 @@ ht-degree: 0%
 
 アカウントジャーニーと、それらを使用してターゲットオーディエンスを引き付ける方法に関するすべての情報を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443202/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443208/?learn=on&enablevpops&captions=jpn)

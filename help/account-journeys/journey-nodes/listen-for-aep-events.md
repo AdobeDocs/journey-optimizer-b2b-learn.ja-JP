@@ -24,4 +24,4 @@ AJO B2B でAEP イベントをリッスンすると、アカウントジャー�
 
 * アカウントジャーニーでのAEP イベントの使用
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448684/?learn=on&enablevpops&captions=jpn)

@@ -30,4 +30,4 @@ AJO B2B 内では、ユーザーは、マーケティングやセールスの取
 
 要約すると、AJO B2B のアカウントリストは、アカウントベースのマーケティングおよびカスタマーエンゲージメントアクティビティを管理および調整するための基本要素です。 これにより、ユーザーは主要アカウントのマーケティングエンゲージメントを整理、ターゲット設定およびパーソナライズし、有意義なインタラクションと関係を促進できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448650/?learn=on&enablevpops&captions=jpn)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 リッスンノードと、アカウントジャーニーの作成時にリッスンノードを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443235/?learn=on&enablevpops&captions=jpn)

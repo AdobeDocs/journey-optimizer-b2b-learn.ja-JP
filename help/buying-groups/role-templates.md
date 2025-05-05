@@ -20,4 +20,4 @@ ht-degree: 0%
 
 購入グループの役割テンプレートと、購入グループを作成する際にそれらを設定および使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453298/?learn=on&captions=jpn)

@@ -22,4 +22,4 @@ ht-degree: 4%
 
 この機能を使用すると、1 つのステージモデル内に複数の購買グループのライフサイクルステージを作成し、移行ルールを指定できます。 これらのルールを設定すると、購入グループがあるステージから別のステージにどのように移動するかを完全に制御できます。 ジャーニー内でステージ遷移を自動化し、これらの機能を 1 つの強力なフローに組み合わせることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448634/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448695/?learn=on&enablevpops&captions=jpn)

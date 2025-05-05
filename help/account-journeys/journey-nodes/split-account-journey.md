@@ -20,4 +20,4 @@ ht-degree: 0%
 
 分割/結合パスノードと、アカウントジャーニーの作成時に分割/結合パスノードを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443257/?learn=on&enablevpops&captions=jpn)

@@ -30,4 +30,4 @@ ht-degree: 0%
 
 このビデオでは、ジャーニーを使用して外部オーディエンスにユーザーを移動する方法を示します。このオーディエンスは、AEPの宛先カタログでサポートされている有料メディアの宛先にプッシュできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448649/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448673/?learn=on&enablevpops&captions=jpn)

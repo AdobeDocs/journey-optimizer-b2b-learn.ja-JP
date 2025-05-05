@@ -20,4 +20,4 @@ ht-degree: 0%
 
 アカウントオーディエンス、アクションノード、リッスンノード、分割パスノードを使用して、アカウントジャーニーを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443220/?learn=on&enablevpops&captions=jpn)

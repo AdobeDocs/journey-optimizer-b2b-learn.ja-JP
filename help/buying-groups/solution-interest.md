@@ -20,4 +20,4 @@ ht-degree: 5%
 
 購入グループソリューションの関心と、購入グループを作成する際にそれらを設定および使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433080/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450114/?learn=on&captions=jpn)

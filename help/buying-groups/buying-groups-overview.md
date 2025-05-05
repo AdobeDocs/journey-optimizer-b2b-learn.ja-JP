@@ -20,4 +20,4 @@ ht-degree: 76%
 
 購買グループとその利用方法についてすべて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452926/?learn=on&captions=jpn)
