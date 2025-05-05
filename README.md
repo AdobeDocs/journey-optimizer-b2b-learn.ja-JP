@@ -29,7 +29,7 @@ ht-degree: 100%
 1. 「このコンテンツは役に立ちましたか？」バナー（ブラウザーウィンドウの下部に表示される）で、「**詳細フィードバックオプション**」をクリックします。
 1. 「**編集を提案**」をクリックし、変更内容を記載したプルリクエスト（PR）を GitHub UI で送信します。
 
-   詳しくは、一般的な[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?ja-jp)を参照してください。
+   詳しくは、一般的な[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja&ja-jp)を参照してください。
 
 このリポジトリのドキュメントおよびコード例について送信した軽微な修正または説明には、アドビの利用条件が適用されます。
 
@@ -43,7 +43,7 @@ ht-degree: 100%
 
 コミュニティの投稿者は、GitHub UI を使用して、基本的な編集をしたり、リポジトリをフォークしたりして、大きな貢献をすることができます。
 
-詳しくは、[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?ja-jp)を参照してください。
+詳しくは、[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja&ja-jp)を参照してください。
 
 ## 内部コントリビューター
 
