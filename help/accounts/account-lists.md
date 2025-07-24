@@ -28,4 +28,4 @@ ht-degree: 2%
 
 要約すると、[!DNL Journey Optimizer B2B Edition] のアカウントリストは、アカウントベースのマーケティングおよび顧客エンゲージメントアクティビティを管理および調整するための基本要素です。 これにより、主要アカウントのマーケティングエンゲージメントを整理、ターゲット設定およびパーソナライズし、有意義なインタラクションと関係を促進できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448650/?learn=on&enablevpops&captions=jpn)
