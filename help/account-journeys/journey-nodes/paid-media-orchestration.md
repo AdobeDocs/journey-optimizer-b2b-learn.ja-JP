@@ -8,19 +8,19 @@ doc-type: Feature Video
 duration: 318
 last-substantial-update: 2025-03-04T00:00:00Z
 jira: KT-17445
-source-git-commit: bdb6b90247da37fee5caafdb6300632d439ab21b
+exl-id: 25f3692e-d611-44ff-92f6-b2fe7d427e11
+source-git-commit: a39154610df6f18a602d00d7249fe581463a7133
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # 有料メディアオーケストレーション
 
 顧客は、獲得、育成、販売の資格を得るために、マルチチャネル戦術を通じて顧客と関わろうとしています。 これには複数のチャネルからオーケストレーションを行う機能が必要であり、マーケティング業務チームにとっては多くの手作業が必要となり、真のオーケストレーションが欠如する可能性があります。
 
-この課題のソリューションとして、AJO B2B は次の機会をお客様に提供します。
+この課題の解決策として、[!DNL Journey Optimizer B2B Edition] は次の機会を提供します。
 
 * 視覚的なジャーニーインターフェイスを使用して、有料メディアエンゲージメントを自動化し、有料メディアを設計します。
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 このビデオでは、ジャーニーを使用して外部オーディエンスにユーザーを移動する方法を示します。このオーディエンスは、AEPの宛先カタログでサポートされている有料メディアの宛先にプッシュできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448673/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3448649/?learn=on&enablevpops)

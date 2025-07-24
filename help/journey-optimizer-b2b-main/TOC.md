@@ -1,11 +1,11 @@
 ---
 user-guide-title: '[!DNL Journey Optimizer B2B Edition] チュートリアル'
 breadcrumb-title: '[!DNL Journey Optimizer B2B Edition] チュートリアル'
-user-guide-description: ' [!DNL Journey Optimizer B2B Edition] を最大限に活用する方法を説明します。 組み込みの生成 AI と業界最先端の自動化機能を使用して、アカウントと購買グループのジャーニーを調整し、特定のサービスに対する需要を最大限に高めます。'
-source-git-commit: dafc46340bb566560c9f3f4db5a9225793c2de62
+user-guide-description: ' [!DNL Journey Optimizer B2B Edition] を最大限に活用する方法を説明します。 ビルトインの生成 AI と業界最先端の自動化機能を使用して、アカウントと購買グループのジャーニーを調整し、特定のサービスに対する需要を最大限に高めます。'
+source-git-commit: a39154610df6f18a602d00d7249fe581463a7133
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 43%
+source-wordcount: '75'
+ht-degree: 58%
 
 ---
 
@@ -23,6 +23,8 @@ ht-degree: 43%
       + [AEP イベントをリッスン](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
       + [有料メディアオーケストレーション](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
       + [アカウントジャーニーを分割](/help/account-journeys/journey-nodes/split-account-journey.md)
++ アカウント {#accounts}
+   + [アカウントリスト](/help/accounts/account-lists.md)
 + 購買グループ {#buying-groups}
    + [購買グループの概要](/help/buying-groups/buying-groups-overview.md)
    + [購買グループステージ](/help/buying-groups/buying-group-stages.md)
