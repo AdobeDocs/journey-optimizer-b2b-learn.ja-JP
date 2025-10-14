@@ -15,13 +15,13 @@ ht-degree: 20%
 
 ## 最新情報 {#whats-new}
 
-* [ 購入グループステージ ](/help/buying-groups/buying-group-stages.md)
+* [&#x200B; 購入グループステージ &#x200B;](/help/buying-groups/buying-group-stages.md)
   _1 つのステージモデル内で複数の購入グループライフサイクルステージを作成し、移行ルールを指定する方法を説明します。_
 
-* [AEP イベントをリッスン ](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+* [AEP イベントをリッスン &#x200B;](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
   _アカウントジャーニーで任意のエクスペリエンスイベントを定義して使用します。_
 
-* [ 有料メディアオーケストレーション ](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+* [&#x200B; 有料メディアオーケストレーション &#x200B;](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
   _ジャーニーを使用してユーザーを外部オーディエンスに移動させ、AEPの宛先カタログでサポートされている有料メディアの宛先にプッシュする方法を説明します。_
 
 ## 最も人気のあるビデオ {#most-popular-videos}
