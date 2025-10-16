@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Journey Optimizer B2B Edition] チュートリアル'
 breadcrumb-title: '[!DNL Journey Optimizer B2B Edition] チュートリアル'
 user-guide-description: ' [!DNL Journey Optimizer B2B Edition] を最大限に活用する方法を説明します。 ビルトインの生成 AI と業界最先端の自動化機能を使用して、アカウントと購買グループのジャーニーを調整し、特定のサービスに対する需要を最大限に高めます。'
-source-git-commit: a39154610df6f18a602d00d7249fe581463a7133
+source-git-commit: ac86936e77f1937ad1384a23f9ede67db7fc0455
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 58%
+source-wordcount: '80'
+ht-degree: 55%
 
 ---
 
@@ -31,3 +31,4 @@ ht-degree: 58%
    + [購入グループの作成](/help/buying-groups/create-a-buying-group.md)
    + [役割テンプレート](/help/buying-groups/role-templates.md)
    + [ソリューションに対する関心](/help/buying-groups/solution-interest.md)
+   + [Account Qualification Agentの使用](/help/buying-groups/account-qualification-agent.md)
