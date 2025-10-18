@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Journey Optimizer B2B editionのAccount Qualification Agentの使用方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475827/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475840/?captions=jpn&learn=on&enablevpops)
