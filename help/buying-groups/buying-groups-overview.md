@@ -12,7 +12,7 @@ exl-id: 2d8c37d7-f00c-42d6-b8de-44968633ab88
 source-git-commit: 95661e83f42cc4d94630fa86de50125940ea2e3d
 workflow-type: tm+mt
 source-wordcount: '26'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 76%
 
 購買グループとその利用方法についてすべて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452926/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on)

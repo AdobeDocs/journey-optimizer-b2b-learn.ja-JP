@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Journey Optimizer B2B Edition]"
+title: '[!DNL Journey Optimizer B2B Edition]'
 description: 購買グループのコンポーネントと、アカウントジャーニーの作成の基本について説明します。
 role: Admin, User
 level: Beginner, Intermediate, Experienced
