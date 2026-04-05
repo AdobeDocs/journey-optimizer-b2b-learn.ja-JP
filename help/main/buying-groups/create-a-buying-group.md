@@ -20,4 +20,4 @@ ht-degree: 0%
 
 アカウントオーディエンス、役割テンプレート、ソリューションへの関心を使用して購買グループを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433081/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451762/?captions=jpn&learn=on)

@@ -20,4 +20,4 @@ ht-degree: 12%
 
 アクションノードと、アカウントジャーニーを作成する際にアクションノードを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443246/?captions=jpn&learn=on&enablevpops)

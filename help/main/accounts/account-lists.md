@@ -28,4 +28,4 @@ ht-degree: 2%
 
 要約すると、[!DNL Journey Optimizer B2B Edition]のアカウントリストは、アカウントベースドマーケティングと顧客エンゲージメント活動を管理および調整するための基本的な要素です。 Adobe Marketo Engageを活用すれば、主要なアカウントのマーケティングエンゲージメントを整理、ターゲティング、パーソナライズし、有意義なインタラクションと関係を促進できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448650/?captions=jpn&learn=on&enablevpops)

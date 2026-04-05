@@ -20,4 +20,4 @@ ht-degree: 5%
 
 購買グループソリューションへの関心と、購買グループを作成する際の設定/使用方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433080/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450114/?captions=jpn&learn=on)

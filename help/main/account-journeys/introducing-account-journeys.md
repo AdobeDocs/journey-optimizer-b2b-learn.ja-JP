@@ -20,4 +20,4 @@ ht-degree: 0%
 
 アカウントジャーニーの概要と、ターゲットオーディエンスのエンゲージメントにアカウント指標を活用する方法について解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443202/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443208/?captions=jpn&learn=on&enablevpops)

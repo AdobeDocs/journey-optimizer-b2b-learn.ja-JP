@@ -20,4 +20,4 @@ ht-degree: 0%
 
 リッスノードについて学び、アカウントジャーニーを作成する際にそれらを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443235/?captions=jpn&learn=on&enablevpops)
