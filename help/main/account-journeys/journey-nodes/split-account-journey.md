@@ -34,4 +34,4 @@ ht-degree: 5%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
 
-詳しくは、ユーザーガイドの「_[パスの分割と結合](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_」を参照してください。
+詳しくは、ユーザーガイドの「_[パスの分割と結合](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_」を参照してください。

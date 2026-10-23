@@ -34,4 +34,4 @@ ht-degree: 34%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
 
-詳しくは、ユーザーガイドの&#x200B;_[購買グループ &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_&#x200B;を参照してください。
+詳しくは、ユーザーガイドの&#x200B;_[購買グループ &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_&#x200B;を参照してください。

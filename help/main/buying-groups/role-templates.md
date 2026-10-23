@@ -39,4 +39,4 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
 
-詳しくは、ユーザーガイドの「[購買グループの役割テンプレート &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)」を参照してください。
+詳しくは、ユーザーガイドの「[購買グループの役割テンプレート &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)」を参照してください。
