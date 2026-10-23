@@ -37,6 +37,6 @@ ht-degree: 3%
 
 購買グループの役割テンプレートの概要と、購買グループを作成する際に設定および使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453298/?captions=jpn&learn=on)
 
 詳しくは、ユーザーガイドの「[購買グループの役割テンプレート &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)」を参照してください。

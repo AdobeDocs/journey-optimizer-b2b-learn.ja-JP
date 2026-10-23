@@ -32,6 +32,6 @@ ht-degree: 34%
 
 購買グループとその利用方法についてすべて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452926/?captions=jpn&learn=on&enablevpops)
 
 詳しくは、ユーザーガイドの&#x200B;_[購買グループ &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_&#x200B;を参照してください。

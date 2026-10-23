@@ -32,6 +32,6 @@ ht-degree: 5%
 
 分割および結合パスノードについて説明し、アカウントまたは個人ジャーニーを作成する際に設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443257/?captions=jpn&learn=on&enablevpops)
 
 詳しくは、ユーザーガイドの「_[パスの分割と結合](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_」を参照してください。
