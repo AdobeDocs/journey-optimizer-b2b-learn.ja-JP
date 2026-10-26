@@ -35,7 +35,7 @@ ht-degree: 1%
 
 このチュートリアルは、アカウントベースドマーケティングに[!DNL Journey Optimizer B2B Edition]を使用し、適切な関係者をターゲットにしてアカウントを選定したいマーケターと管理者を対象としています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452926/?captions=jpn&learn=on&enablevpops)
 
 次の方法について説明します。
 
