@@ -53,4 +53,4 @@ ht-degree: 4%
 * 完全性スコア設定を使用して、各役割に必要なメンバー数を設定します。
 * テンプレートを公開すると、そのステータスがLiveに変わり、ソリューションの関心に応じて利用できるようになります。
 
-詳しくは、ユーザーガイドの「[購買グループの役割テンプレート &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)」を参照してください。
+詳しくは、ユーザーガイドの「[購買グループの役割テンプレート &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)」を参照してください。

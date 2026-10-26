@@ -49,4 +49,4 @@ Adobe [!DNL Journey Optimizer B2B Edition]で分割および結合パスノー�
 * 人物属性、アカウントと個人の関係属性、購買グループのメンバーシップ、カスタムオブジェクト、イベント履歴を使用して、ルックバックウィンドウ、頻度、非アクティビティフィルタリングを使用する人物で分割します。
 * 自動分割パスを閉じるノードがユーザーをアカウントジャーニーに戻す方法について説明します。
 
-詳しくは、ユーザーガイドの「_[パスの分割と結合](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_」を参照してください。
+詳しくは、ユーザーガイドの「_[パスの分割と結合](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_」を参照してください。
