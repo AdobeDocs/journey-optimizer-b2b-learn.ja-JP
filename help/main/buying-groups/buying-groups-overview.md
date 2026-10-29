@@ -1,5 +1,5 @@
 ---
-title: Adobe [!DNL Journey Optimizer B2B Edition]での購買グループの概要
+title: '[!DNL Journey Optimizer B2B Edition]の購買グループ'
 description: ロールテンプレートやソリューションへの関心から、準備状況や役割に関するインサイトまで、Adobe [!DNL Journey Optimizer B2B Edition]で購買グループを作成、管理、評価する方法を説明します。
 keywords: 購買グループ，Adobe [!DNL Journey Optimizer B2B Edition], アカウントベースドマーケティング，B2B購買グループ，役割テンプレート，ソリューションへの興味，アカウントオーディエンス，購買グループのステージ，購買グループの完全性，役割インサイト，B2B マーケティングオートメーション
 feature: Buying Groups
@@ -24,18 +24,18 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 85f11f822fd6915c58beec677aef15621c8cc0e6
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '248'
 ht-degree: 1%
 ---
-# Adobe [!DNL Journey Optimizer B2B Edition]での購買グループの概要
+# [!DNL Journey Optimizer B2B Edition]の購買グループ
 
 購買グループが[!DNL Adobe Journey Optimizer B2B Edition]でB2B購買の意思決定のために人物を整理する方法について説明します。 このビデオでは、必要なコンポーネント、購買グループ作成ジョブの準備方法、準備状況の評価方法について説明します。
 
 このチュートリアルは、アカウントベースドマーケティングに[!DNL Journey Optimizer B2B Edition]を使用し、適切な関係者をターゲットにしてアカウントを選定したいマーケターと管理者を対象としています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452926/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
 
 次の方法について説明します。
 
@@ -48,4 +48,4 @@ ht-degree: 1%
 * 購買グループのメンバーのレビューと更新。 手動による更新は、ジャーニーのアクションやシステムジョブよりも優先されます。
 * 役割のインサイトを使用して、日付範囲でフィルタリングされた、役割をまたいで獲得とエンゲージメントを比較します。
 
-詳しくは、ユーザーガイドの&#x200B;_[購買グループ &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_&#x200B;を参照してください。
+詳しくは、ユーザーガイドの&#x200B;_[購買グループ ](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_&#x200B;を参照してください。

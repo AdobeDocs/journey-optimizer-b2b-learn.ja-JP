@@ -1,5 +1,5 @@
 ---
-title: Adobe [!DNL Journey Optimizer B2B Edition]でのパスの分割と結合
+title: パスの分割と結合
 description: Adobe [!DNL Journey Optimizer B2B Edition]でパスを分割および結合して、条件でアカウントまたはユーザーをルーティングし、パスの優先順位を設定し、一致しないオーディエンスを処理する方法を説明します。
 keywords: パスの分割、パスの結合、Adobe [!DNL Journey Optimizer B2B Edition]、アカウントジャーニー、ジャーニーノード、アカウントベースドマーケティング、B2B ジャーニーオーケストレーション、購買グループの準備状況、パス条件、人物の分割、イベント履歴のフィルタリング、ジャーニーセグメンテーション
 feature: Account Journeys
@@ -24,18 +24,18 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 375a9f528b4df8d65f8ec3d5646381ab615c4305
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 0%
+source-wordcount: '312'
+ht-degree: 3%
 ---
-# Adobe [!DNL Journey Optimizer B2B Edition]でのパスの分割と結合
+# パスの分割と結合
 
 Adobe [!DNL Journey Optimizer B2B Edition]で分割および結合パスノードを使用して、条件に従ってアカウントジャーニーを通じてアカウントまたはユーザーをルーティングする方法を説明します。 このビデオでは、アカウントとユーザーの分割、パスの優先順位、デフォルトのパス、結合について説明します。
 
 このチュートリアルは、[!DNL Journey Optimizer B2B Edition]を使用して、様々なセグメントや購買グループのメンバー向けにアカウントベースのマーケティングジャーニーをパーソナライズするマーケターおよびジャーニーデザイナー向けです。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443257/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
 
 次の方法について説明します。
 
@@ -49,4 +49,4 @@ Adobe [!DNL Journey Optimizer B2B Edition]で分割および結合パスノー�
 * 人物属性、アカウントと個人の関係属性、購買グループのメンバーシップ、カスタムオブジェクト、イベント履歴を使用して、ルックバックウィンドウ、頻度、非アクティビティフィルタリングを使用する人物で分割します。
 * 自動分割パスを閉じるノードがユーザーをアカウントジャーニーに戻す方法について説明します。
 
-詳しくは、ユーザーガイドの「_[パスの分割と結合](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_」を参照してください。
+詳しくは、ユーザーガイドの「_[パスの分割と結合](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_」を参照してください。
