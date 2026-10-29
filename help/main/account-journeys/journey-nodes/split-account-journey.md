@@ -35,7 +35,7 @@ Adobe [!DNL Journey Optimizer B2B Edition]で分割および結合パスノー�
 
 このチュートリアルは、[!DNL Journey Optimizer B2B Edition]を使用して、様々なセグメントや購買グループのメンバー向けにアカウントベースのマーケティングジャーニーをパーソナライズするマーケターおよびジャーニーデザイナー向けです。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443257/?captions=jpn&learn=on&enablevpops)
 
 次の方法について説明します。
 
