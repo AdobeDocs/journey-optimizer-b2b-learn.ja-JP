@@ -48,4 +48,4 @@ ht-degree: 1%
 * 購買グループのメンバーのレビューと更新。 手動による更新は、ジャーニーのアクションやシステムジョブよりも優先されます。
 * 役割のインサイトを使用して、日付範囲でフィルタリングされた、役割をまたいで獲得とエンゲージメントを比較します。
 
-詳しくは、ユーザーガイドの&#x200B;_[購買グループ &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_&#x200B;を参照してください。
+詳しくは、ユーザーガイドの&#x200B;_[購買グループ &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_&#x200B;を参照してください。
