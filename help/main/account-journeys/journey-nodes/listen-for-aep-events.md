@@ -1,27 +1,39 @@
 ---
-title: AEP イベントのリッスン
-description: ' [!DNL Journey Optimizer B2B Edition] でAEP イベントをリッスンすると、アカウントジャーニー内の任意のエクスペリエンスイベントを定義して使用できます。'
+title: Experience Platform Eventsを聴く
+description: Adobe Journey Optimizer B2B EditionでExperience Platform イベントを設定し、イベントの制約とフィルターを使用してアカウントジャーニーを進める方法について説明します。
 feature: Account Journeys
-role: User
+role: Admin, User
 level: Beginner
 doc-type: Feature Video
-duration: 450
-last-substantial-update: 2025-03-03T00:00:00Z
+duration: 87
+last-substantial-update: 2026-10-29
 jira: KT-17443
 exl-id: 1e290e1d-a97e-48ab-a0c1-bad127b7dde3
-source-git-commit: c7b76b0f10bc4becb38c515e0b4c4cc9c457c6fb
+source-git-commit: fae92807ede9410f62e9a12e485202b72786c16b
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
-
+source-wordcount: '190'
+ht-degree: 3%
 ---
+# Experience Platform イベントのリッスン
 
-# AEP イベントのリッスン
+[!DNL Adobe Experience Platform] エクスペリエンスイベントを使用して、一致するアクティビティが発生したときに[!DNL Adobe Journey Optimizer B2B Edition]でアカウントジャーニーを進めます。 管理者がイベントタイプとフィールドを設定する方法と、マーケターがイベントをリッスンする[!UICONTROL  ノード ]でそれらを使用する方法について説明します。
 
-[!DNL Journey Optimizer B2B Edition]でAEP Eventsをリッスンすると、アカウントジャーニー内の任意のエクスペリエンスイベントを定義して使用できます。 管理者はAdobe Experience Platform（AEP）ベースのイベント定義を設定でき、マーケターはAEP Experience Eventsに反応するアカウントジャーニーを作成できます。 アカウントジャーニーでのAEP Experience Eventsの使用は、次の2つのプロセスで構成されています。
+>[!VIDEO](https://video.tv.adobe.com/v/3448637/?quality=12&learn=on)
 
-* AEP イベント定義の作成と公開
+## Experience Event essentials
 
-* アカウントジャーニーでのAEP イベントの使用
+ビデオでは、次のトピックについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448684/?captions=jpn&learn=on&enablevpops)
+* Experience Eventsのスキーマおよびストリーミング取り込みの前提条件。
+* 管理者がジャーニーイベントマッチングに使用できるイベントタイプとフィールド。
+* マーケターがアカウントジャーニーで使用する人物イベント、制約、フィルター。
+* リスナーステップの前に発生したアクティビティのイベント履歴フィルタリング。
+
+アカウントがそのステップに達すると、リスナーは一致するストリーミングアクティビティに応答します。 イベント履歴のフィルタリングを使用して、以前のアクティビティを評価します。
+
+## 関連ドキュメント
+
+設定の要件と手順については、ユーザーガイドの次のページを参照してください。
+
+* [エクスペリエンスイベントとフィールドの選択](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
+* [イベントをリッスン](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}
