@@ -18,7 +18,7 @@ ht-degree: 1%
 
 [!DNL Adobe Journey Optimizer B2B Edition]のアクション ノードを使用して、ジャーニー内のアカウントまたはユーザーのアクションを定義します。 アカウントアクションとピープルアクションを比較し、各ジャーニータイプがどのアクションをサポートしているかを確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443246/?captions=jpn&quality=12&learn=on)
 
 ## Action node essentials
 

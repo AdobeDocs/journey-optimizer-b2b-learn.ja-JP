@@ -18,7 +18,7 @@ ht-degree: 1%
 
 [!DNL Adobe Journey Optimizer B2B Edition]の[!UICONTROL &#x200B; イベントのリッスン &#x200B;] ノードを使用して、イベントが発生したときにジャーニーを進めます。 アカウントと個人のイベントを比較し、一致する基準を定義し、タイムアウトを設定してジャーニーの待機時間を制御します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443235/?captions=jpn&quality=12&learn=on)
 
 ## Listen node essentials
 

@@ -18,7 +18,7 @@ ht-degree: 3%
 
 [!DNL Adobe Experience Platform] エクスペリエンスイベントを使用して、一致するアクティビティが発生したときに[!DNL Adobe Journey Optimizer B2B Edition]でアカウントジャーニーを進めます。 管理者がイベントタイプとフィールドを設定する方法と、マーケターがイベントをリッスンする[!UICONTROL &#x200B; ノード &#x200B;]でそれらを使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448684/?captions=jpn&quality=12&learn=on)
 
 ## Experience Event essentials
 
