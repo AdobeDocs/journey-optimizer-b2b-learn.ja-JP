@@ -30,4 +30,4 @@ ht-degree: 1%
 
 ## 関連ドキュメント
 
-設定手順とサポートされているアカウントおよびユーザーのアクションについては、[&#x200B; ユーザーガイドのアクションを実行する](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes){target="_blank"}を参照してください。
+設定手順とサポートされているアカウントおよびユーザーのアクションについては、[&#x200B; ユーザーガイドのアクションを実行する](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes){target="_blank"}を参照してください。

@@ -35,5 +35,5 @@ ht-degree: 3%
 
 設定の要件と手順については、ユーザーガイドの次のページを参照してください。
 
-* [エクスペリエンスイベントとフィールドの選択](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
-* [イベントをリッスン](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}
+* [エクスペリエンスイベントとフィールドの選択](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
+* [イベントをリッスン](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}

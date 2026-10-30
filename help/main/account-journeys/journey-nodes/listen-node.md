@@ -30,4 +30,4 @@ ht-degree: 1%
 
 ## 関連ドキュメント
 
-サポートされているイベント、設定手順、およびタイムアウトオプションについては、[&#x200B; ユーザーガイドのイベントをリッスンする](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}を参照してください。
+サポートされているイベント、設定手順、およびタイムアウトオプションについては、[&#x200B; ユーザーガイドのイベントをリッスンする](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}を参照してください。
