@@ -16,7 +16,7 @@ ht-degree: 3%
 ---
 # Experience Platform イベントのリッスン
 
-[!DNL Adobe Experience Platform] エクスペリエンスイベントを使用して、一致するアクティビティが発生したときに[!DNL Adobe Journey Optimizer B2B Edition]でアカウントジャーニーを進めます。 管理者がイベントタイプとフィールドを設定する方法と、マーケターがイベントをリッスンする[!UICONTROL  ノード ]でそれらを使用する方法について説明します。
+[!DNL Adobe Experience Platform] エクスペリエンスイベントを使用して、一致するアクティビティが発生したときに[!DNL Adobe Journey Optimizer B2B Edition]でアカウントジャーニーを進めます。 管理者がイベントタイプとフィールドを設定する方法と、マーケターがイベントをリッスンする[!UICONTROL &#x200B; ノード &#x200B;]でそれらを使用する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448637/?quality=12&learn=on)
 
